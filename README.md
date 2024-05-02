@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil do GitHub! Eu sou um desenvolvedor de software apaixonado por criar soluções inovadoras. Aqui você encontrará uma variedade de projetos nos quais tenho trabalhado.
 
 ## Sobre Mim
-- 🎓 Estudante de Analise e desenvolvimento de sistemas
+- 🎓 Estudante de Analise e desenvolvimento de sistemas da Fadesa 
 - 💻 Experiência em desenvolvimento de software em C, Python e JavaScript.
 - 🌱 Sempre em busca de aprender algo novo!
 
