@@ -1,16 +1,23 @@
-### Hi there 👋
+# Olá, eu sou Maicon Douglas! 👋
 
-<!--
-**MaiconDuglass/maiconDuglass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Eu sou um desenvolvedor de software apaixonado por criar soluções inovadoras. Aqui você encontrará uma variedade de projetos nos quais tenho trabalhado.
 
-Here are some ideas to get you started:
+## Sobre Mim
+- 🎓 Estudante de Analise e desenvolvimento de sistemas
+- 💻 Experiência em desenvolvimento de software em C, Python e JavaScript.
+- 🌱 Sempre em busca de aprender algo novo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Destacados
+- [Projeto 1](link_para_o_projeto_1): Breve descrição do projeto.
+- [Projeto 2](link_para_o_projeto_2): Breve descrição do projeto.
+- [Projeto 3](link_para_o_projeto_3): Breve descrição do projeto.
+
+## Contato
+- [LinkedIn](link_para_o_seu_perfil_do_LinkedIn)
+- [Twitter](link_para_o_seu_perfil_do_Twitter)
+- [Website/Blog](link_para_o_seu_website_ou_blog)
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&theme=radical)
+
+
